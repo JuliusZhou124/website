@@ -6,8 +6,10 @@ layout: home
 # JULIUS'S WEBSITE FOR CS10 BJC
 ## I like coding and robotics! 
 
-![Julius' Image](imgur-cs-thing.png)
+[Snap Final Project Link Github](https://github.com/JuliusZhou124/OpenStreetMapParser)
+[Snap Final Project Link](https://snap.berkeley.edu/project?username=jzhou124&projectname=final%2dproject%2dfailed%2dgeneralization)
 
+![Julius' Image](imgur-cs-thing.png)
 
 <object data="https://personal.math.ubc.ca/~CLP/CLP3/combined_clp_3.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://personal.math.ubc.ca/~CLP/CLP3/combined_clp_3.pdf">
